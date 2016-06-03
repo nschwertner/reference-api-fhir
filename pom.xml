@@ -10,14 +10,14 @@
 
     <groupId>org.hspconsortium.reference</groupId>
     <artifactId>hspc-reference-api-fhir</artifactId>
-    <version>0.10</version>
+    <version>0.11-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
         <connection>scm:git:ssh://git@bitbucket.org/hspconsortium/reference-api-fhir.git</connection>
         <developerConnection>scm:git:ssh://git@bitbucket.org/hspconsortium/reference-api-fhir.git</developerConnection>
         <url>https://bitbucket.org/hspconsortium/reference-api-fhir.git</url>
-        <tag>hspc-reference-api-fhir-0.10</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
